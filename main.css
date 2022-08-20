@@ -11,18 +11,23 @@
     font-size: 130%;
     color: #ff086b;
     font-family: "Calibri", monospace;
-    margin-top: 0.5%;
+
 }
 
 #homeButton { 
-    left: 20%;
-    top: 0.5%;
-    
+    position: relative; /*Position of text relative to default position */
+    left: 60%;
+    margin-top: -8%;    
 }
 
 #playlists {
-    margin-left: 65%;
+    position: relative; /*Position of text relative to default position */
+    margin-left: 72%;
+    margin-top: -5.4%;
+    
 }
+
+
 
 
 hr {
