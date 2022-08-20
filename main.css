@@ -1,7 +1,31 @@
 #siteName {
     font-size: 130%;
     color: #ff66a3;
-    padding: 2%;
-    margin-top: 2%;
+    padding: 0.5%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+
+.navBarButton {
+    font-size: 130%;
+    color: #ff086b;
+    font-family: "Calibri", monospace;
+    margin-top: 0.5%;
+}
+
+#homeButton { 
+    left: 20%;
+    top: 0.5%;
+    
+}
+
+#playlists {
+    margin-left: 65%;
+}
+
+
+hr {
+    color: #ff66a3;
     margin-left: 2%;
 }
